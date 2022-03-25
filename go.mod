@@ -1,5 +1,7 @@
 module github.com/timescale/outflux
 
+replace github.com/timescale/outflux => /home/noah/repos/outflux
+
 go 1.12
 
 require (
